@@ -1,0 +1,22 @@
+
+
+    **** Middleware In NodeJS ****
+
+    1. What is middleware?
+    2. How to make middleware?
+    3. Apply middleware on routes
+    4. Types of middleware
+
+    1.Middleware:- It's a function jo ki routs ke sath hi use hote hai.
+     With the help of these we can axcess the Request and Response function and modified these 
+
+     ** Jaha pe hame Request and Response me kuch change karne hote hai waha pe ham middleware ke 
+     use karte hai 
+
+
+     4. Types of Middleware 
+    -> Application-level middleware
+    -> Router-Level middleware
+    -> Error-handling middleware
+    -> Third-party middleware 
+    
